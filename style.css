@@ -8,9 +8,7 @@
 .container{
     width: 100%;
     height: 100vh;
-    background-image: url(https://1.bp.blogspot.com/-fyF-OXXEBBY/X1altgmlwQI/AAAAAAAA66s/KVb5Fjlb_f41xu_pEjq5VpDhRWr2QbJFACLcBGAsYHQ/s2560/hexagon-blender-4k-22-3840x2160.jpg); /* You can change background here*/
-    background-position: center;
-    background-size: cover;
+    background: #202020;
     display: flex;
     align-items: center;
     justify-content: center;
